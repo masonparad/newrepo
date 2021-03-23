@@ -3,7 +3,8 @@ publc class Hello{
 	{
 
 		System.out.println("I'm gonna DIE");
-		System.out.prinlnt("Adding one more line");
+		System.out.println("Adding one more line");
+		System.out.println("Making some changes");
 	}
 
 }
